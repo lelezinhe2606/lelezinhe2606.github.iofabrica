@@ -1,0 +1,82 @@
+
+
+body{
+    background: linear-gradient(to bottom, #000, #530C0C);
+}
+
+#botao_registro{
+    background-color: #D23636;
+    color: #E5E5E5;
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 200px;
+    height: 40px;
+    font-family: "Jockey One", sans-serif;
+    
+}
+
+#botao_secundario{
+    background-color: #D23636;
+    color: #E5E5E5;
+    margin-top: 30px;
+    margin-bottom: 185px;
+    margin-left: 25px;;
+    width: 200px;
+    height: 40px;
+    margin-left: 1360px;
+    
+
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    font-family: "Alata", sans-serif;
+    font-weight: 100;
+}
+
+table{
+    border: 1px solid #fff;
+    border-collapse: collapse;
+    padding: 2%;
+    margin: auto;
+    margin-top: 1%;
+    width: 90%;
+    height: 90%;
+    
+    
+
+
+}
+
+tr{
+   background-color: #272525;
+   color: #E5E5E5;
+   font-family: "Jockey One", sans-serif;
+    
+    
+    
+    
+}
+
+th{
+    border: 1px solid  rgba(255, 255, 255, 0.863);
+  
+    
+   
+    
+    
+}
+
+td{
+    border: 1px solid  #fff;
+    padding: 30px;
+    font-family: "Jockey One", sans-serif;
+   
+   
+
+}
+
+
+
