@@ -3,6 +3,11 @@ body{
     
 }
 
+a img{
+    width: 20px;
+    margin-left: 1850px;
+}
+
 h1{
     color: #fff;
     text-align: center;
