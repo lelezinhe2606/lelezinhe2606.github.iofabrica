@@ -1,0 +1,10 @@
+footer{
+    background-color: black;
+    color: #ffff;
+    height: 80px;
+    padding-top: 10px;
+}
+
+footer div{
+    margin-left: 2%;
+}

@@ -1,0 +1,50 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    width: 100%;
+}
+
+.bem-vindo {
+    background-image: url(../img/Pinterest_\ ☾Nemesis☽.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+    width: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+}
+
+
+.divImagens {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px; 
+    
+}
+
+.divImagens img {
+    width: 470px;
+    height: 700px;
+    object-fit: cover; 
+
+}
+
+.bem-vindo h1{
+margin: 0;
+color: #ffff;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+
