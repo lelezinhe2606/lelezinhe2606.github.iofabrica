@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient(to bottom, #000, #530C0C);
+    
+}
+
+a img{
+    width: 20px;
+    margin-left: 1850px;
+}
+
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Alata", sans-serif;
+    font-weight: 100;
+    
+}
+
+button{
+    background-color: #D23636;
+    color: #E5E5E5;
+    margin-top: 50px;
+    margin-left: 850px;
+    width: 200px;
+    height: 40px;
+    font-family: "Jockey One", sans-serif;
+    margin-bottom: 430px;
+}
+
+form{
+    
+    font-size: 20px;
+    color: #A09A9A;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+input{
+    height: 40px;
+    border-radius: 7px;
+    width: 30%;
+    margin: auto;
+    background-color: #C4C4C4;
+    font-family: "Jockey One", sans-serif;
+}
+
+label{
+    margin-right: 28%;
+    font-family: "Jockey One", sans-serif;
+
+}
+
+.primeiro_quadro{
+    margin-right: 27% ;
+    margin-top: 70px;
+    
+
+}
