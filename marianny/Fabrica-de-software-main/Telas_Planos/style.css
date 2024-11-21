@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    /*font-family: Arial, sans-serif;*/   
+    background: linear-gradient(to bottom, #000000, #530C0C);
+    color: white;
+}
+
+/*.delete-modal {
+    background: linear-gradient(to bottom, #000000, #530C0C);
+    padding: 20px;
+    max-width: 400px;
+    margin: 100px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.delete-modal h2 {
+    margin-bottom: 20px;
+}
+
+.delete-modal input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #D23636;
+    color: #E5E5E5;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 200px;
+    height: 40px;
+    font-family: "Jockey One", sans-serif;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: #ff6161;
+}
+
+.table-section {
+    margin: 50px auto;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background: linear-gradient(to bottom, #000000,#530C0C);
+}
+
+table, th, td {
+    border: 1px solid #FFFFFF;
+}
+
+th, td {
+    background-color:#272525;
+    padding: 10px;
+    color: #FFFFFF;
+}
+
+.actions {
+    margin-top: 20px;
+}
+
+.actions .btn {
+    margin-left: 500px;
+
+}
+
+.delete {
+    background-color: #D23636;
+}*/
+
+.plans-section {
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px auto;
+    max-width: 1000px;
+    gap: 20px;
+}
+
+.plan {
+    background:#272525;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    width: 250px;
+   /* width: 300px;*/
+}
+
+h1 , h2 , h3 {
+    /*margin-top: 10px;*/
+    margin-bottom: 10px;
+    font-size:25px;
+    font-family: "Jockey One", sans-serif;
+    text-align: center;       /* Centraliza o título */
+    
+     
+}
+
+#segundo{
+    margin-inline-end: 100px; 
+}
+
+.plan p {
+    font-size:50px;
+    font-family: "Gentium Plus", serif;
+}
+
+.plan ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.plan ul li {
+    margin-bottom: 10px;
+    font-family: "Gentium Plus", serif;
+    font-size:25px;
+}
+
+
+.plano{
+    background:#272525;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    width: 250px;
+    margin-bottom: 424px;
+   
+  
+
+}
+
+.plano p{  
+    
+    font-size:50px;
+    font-family: "Gentium Plus", serif;
+
+}
+
+.plano ul{
+
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.plano li  {
+    margin-bottom: 10px;
+    font-family: "Gentium Plus", serif;
+    font-size:25px;
+
+
+}
+
+#li_plano_men{
+    margin-bottom: 55px;
+}
+
+#li_plano_anu{
+    margin-bottom: 55px;
+
+}
